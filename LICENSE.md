@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Things 3 for macOS script with instant Script for Things 3 for macOS - voice notes and task automation. Featuring voice notes and task automation, it's the best
 
 
 
